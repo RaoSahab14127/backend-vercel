@@ -5,8 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "Node server.js",
-    "build": "netlify deploy --prod"
+    "start": "Node server.js"
   },
   "author": "",
   "license": "ISC",

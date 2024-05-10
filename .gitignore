@@ -56,3 +56,4 @@ build/contracts/EventManagement.json
 build/contracts/Migrations.json
 Migrations.json
 hedera_scripts/deploy.js
+.vercel
